@@ -1,6 +1,4 @@
-Here’s a detailed description for your GitHub repository, which includes an overview of the project, features, setup instructions, and other relevant information:
 
----
 
 # Electricity Billing System
 
@@ -118,6 +116,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, please contact [vedantcoder44088@gmail.com](mailto:yourname@domain.com).
 
----
-
-Feel free to customize the above description to fit your specific needs and details. If you have any additional sections or specific points you’d like to include, let me know!
